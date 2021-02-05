@@ -1,2 +1,3 @@
-{"ticker":"AAPL", "company_name":"Apple"},
-{"ticker":"GOOGL, "company_name":"Google Alphabet"}
+{"results":
+ [{"ticker":"AAPL","company_name":"Apple"},{"ticker":"GOOGL","company_name":"Alphabet"}]
+}
